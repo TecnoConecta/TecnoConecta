@@ -10,8 +10,9 @@ La idea surgió 💡 un día cuando dos estudiantes, motivados por el entusiasmo
 
 ## ¿Como Unirme a la Comunidad? 💙
 
-En nuestro sitio web, actualmente contamos con un botón que invita a los usuarios a unirse a nuestra comunidad con un simple clic en 'Unirme a la Comunidad' 💚. Una vez presionado, serás redirigido a un grupo de WhatsApp, donde nuestro equipo estará administrando la llegada de nuevos integrantes 😁. En este grupo, ofreceremos cursos en línea y talleres de programación para enseñarles a nuestros miembros las habilidades necesarias para desarrollarse en el mundo tecnológico y empezar a programar con proyectos reales que nos vayan llegando 🚀.
+En nuestro sitio web , actualmente contamos con un botón que invita a los usuarios a unirse a nuestra comunidad con un simple clic en 'Unirme a la Comunidad' 💚. Una vez presionado, serás redirigido a un grupo de WhatsApp, donde nuestro equipo estará administrando la llegada de nuevos integrantes 😁. En este grupo, ofreceremos cursos en línea y talleres de programación para enseñarles a nuestros miembros las habilidades necesarias para desarrollarse en el mundo tecnológico y empezar a programar con proyectos reales que nos vayan llegando 🚀.
 
+[Nuestro Sitio Web Oficial 💙](https://tecno-conecta-sitio-web-oficial.vercel.app/)
 
 ## FAQ ❓
 
